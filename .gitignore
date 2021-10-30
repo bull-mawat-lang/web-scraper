@@ -1,0 +1,10 @@
+node_modules/
+*.log
+*.log
+*.config
+**/build
+/dist
+.env
+.idea/
+vscode/
+*.sw*
